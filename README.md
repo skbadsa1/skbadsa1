@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @skbadsa1
 - 👀 I’m interested in python and web developement
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on realtime project with the hep of python 
+- 💞️ I’m looking to collaborate on realtime project with the help of python 
 - 📫 How to reach me My emai-skbadsa1996@gmail.com
 
 <!---
