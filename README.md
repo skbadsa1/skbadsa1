@@ -2,7 +2,7 @@
 - 👀 I’m interested in python and web developement
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on realtime project with the help of python 
-- 📫 How to reach me My emai-skbadsa1996@gmail.com
+- 📫 How to reach me My email-skbadsa1996@gmail.com
 
 <!---
 skbadsa1/skbadsa1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
